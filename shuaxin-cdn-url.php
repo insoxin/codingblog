@@ -1,6 +1,6 @@
 <?php
-$secretKey='kWen5VHrDqLHnUw3AFNuSGreVPwS7Ohb';
-$secretId='AKIDpbDkIMf5j6fvbwQf8IywtJBPG6avjgR6';
+$secretKey='';
+$secretId='';
 /*请勿修改↓*/
 $action='RefreshCdnUrl';
 $PRIVATE_PARAMS = array(
