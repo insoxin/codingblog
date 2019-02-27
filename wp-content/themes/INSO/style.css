@@ -1,0 +1,20 @@
+/*
+Theme Name: INSO
+Theme URI: https://blog.isoyu.com
+Author: 姬长信
+Author URI: https://blog.isoyu.com
+Description: 时刻在完善
+Version: 1.0
+Tags: 姬长信
+Time: 2018.03.23
+*/
+.ua-info {  
+ display:none;/*设置隐藏*/  
+  margin-left:8px;  
+}  
+ .WB-OS img{  
+ vertical-align:-3px;  
+ }  
+font-family:'Microsoft yahei','Arial';
+/*评论框背景开启去掉首字母c*/  
+#comment-form-comment {width:470px;background-image:url(https://api.isoyu.com/ARU_GIF_S.php);background-repeat:no-repeat;background-position:right bottom;}
